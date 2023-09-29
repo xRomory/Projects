@@ -101,7 +101,7 @@ input {
 
 @media (min-width: 412px) and (max-width: 900px) {
     .container {
-        max-width: 350px;
+        max-width: 380px;
         padding: 20px;
     }
 
@@ -115,7 +115,7 @@ input {
     input {
         flex: 5;
         height: 50px;
-        font-size: 11px;
+        font-size: 15px;
         text-align: center;
         padding: 0 5px;
     }
@@ -133,7 +133,7 @@ input {
 }
 
 /*Smaller Size mobile*/
-@media (min-width: 250px) and (max-width: 653px) {
+@media (min-width: 250px) and (max-width: 412px) {
     .container {
         max-width: 250px;
         padding: 20px;
