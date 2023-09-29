@@ -126,6 +126,10 @@ input {
         line-height: 50px;
     }
     
+    .button {
+        margin-top: 20px;
+        text-align: center;
+    }
 }
 
 /*Smaller Size mobile*/
@@ -138,7 +142,14 @@ input {
     .temperature-icon {
         font-size: 30px;
         color: #fff;
+        
     }
+
+    .button {
+        margin-top: 20px;
+        text-align: center;
+    }
+    
 
     h1 {
         font-family: 'Bebas Neue', sans-serif;
